@@ -1,0 +1,109 @@
+<<< 1 - Cloud Computing >>>
+Disponibilização de serviços e recursos computacionais por meio da internet,como armazenamento e a capacidade de armazenamento, o qual, o usuário só paga pelo o que consome.
+
+>> Modelos de Serviço
+Iaas - Infraestrutura como serviço: O usuário não se preocupa com estrutura fisica. (AWS,ORACLE Cloud,IBM Cloud)
+Paas - Plataforma como serviço: Ambiente focado em desenvolvimento (Azure)
+Saas - Software como serviço: softwares e soluções de tecnologia por meio da internter,o qual o cliente só paga pelo volume/funções adquiridas. (Spotify,Google Drive,Teams)
+
+>> Escalabilidade e Elasticidade
+Escalabilidade: Capacidade de escalar os seus recursos. Aumentar o poder computacional,manualmente,ou seja,o usuário que solicita.
+	Escalabilidade Horizontal: aumenta a quantidade de máquinas/computadores
+	Escalabilidade Vertical: aumenta a capacidade de computação,ex RAm e CPU.
+
+Elasticidade: aumentar ou diminuir o poder computacional de maneira automática,se adequando a demanda necessária.
+
+<<< 2 - Redes >>>
+Dispositivos interconectados na internet e  que podem compartilhar dados. Essa interconexão é feita por meios fisicos,como:
+> Cabo de cobre
+> Fibra Óptica
+> Radiofrequência
+
+<<< 3 - Sistema Operacional >>>
+Interface que faz a intermediação entre o usuário e o hardware.
+Ex: Windows, GNU/LINUX, macOS
+
+>> Software Livre
+É um software que tem a possibilidade de ser executado,copiado,distribuido,estudado,mudado e melhorado,ou seja,o seu código fonte é disponibilizado,o usuário tem total liberdade para manipular o recurso. Ser livre,não significa ser gratuito.
+4 liberdades essenciais
+1 - Executar como desejar,de acordo com seu propósito.
+2 - Estudar e adaptar de acordo com sua necessidade
+3 - Redistribuir cópias que você possua para ajudar outras pessoas
+4 - Redistribuir cópias com as suas modificações
+
+<<< 4 - lOT // USO NA INDÚSTRIA 4.O  >>>
+Coisas que se conectam na internet,que atraves de sensores coleta dados. Tais dados servem pra tomar decisões automaticamente.
+
+Uso na indústria 4.0
+Na  indústria 4.0,o IOT  é utilizado para conectar objetos físicos,como máquinas,com a internet,que proporcionam a reunião e transmissão de dados para garantir o melhor funcionamento das operações. Ex: controle de equipamentos e máquinas,monitoramento,aperfeiçoamento  etc.
+
+
+<<< 5 - BANCO DE DADOS  >>>
+Entidade - tabela
+Atributo - é o que caracteriza a tabela (campo)
+Dado - fragmento inserido dentro do atributo
+Chave primária
+
+Funções básicas:
+ - Inserir dados
+ - Apagar dados
+ -  Atualizar dados
+ - Buscar dados
+
+Tipos:
+ - Estruturado
+ - Semi-estruturado
+ - Não estruturado
+
+<<< 6 - [LIVRO] GERAÇÃO DOS COMPUTADORES  >>>
+1º Geração - Válvulas (Eniac)
+2º Geração - Transistores 
+3º Geração - Circuitos Integrados 
+
+<<< 7 - [LIVRO] PERIFÉRICOS  >>>
+Dados entregues ou recebidos por um dispositivo conectado diretamente no compoutador.
+	Entrada: mouse,teclado,microfone e webcam.
+	Saída: monitor,caixa de som e impressora
+	Misto: pen drive,multificional e headset
+
+<<< 9 - [DIO] DADOS ESTRUTURADOS,NÃO ESTRUTURADOS E SEMI ESTRUTURADOS >>>
+	- Banco de Dados Estruturado são aqueles organizados e representados com uma estrutura rígida, a qual foi previamente planejada para armazená-lo.
+	- Banco de Dados Semi-Estruturados não possui estrutura totalmente rígida nem estrutura totalmente flexível, sendo uma representação heterogênea.
+	- Banco de Dados Não Estruturados possui uma estrutura totalmente inversa dos dados estruturados, sendo flexíveis e dinâmicos ou, até mesmo, sem qualquer estrutura.
+
+	- BigData: grande volume de dados,com diversos formatos que geram informações
+	- DataMining: explorar grandes quantidades de dados à procura de padrões consistentes. Ex: algortimo instagram 
+
+<<< 8 e 10 - [LIVRO] QUESTÃO DO FINAL DO CAPITULO 1  >>>
+Página 8 até a 11
+
+>> Estrutura
+O modo como os componentes são inter relacionados.
+Componentes estruturais principais:
+	- (CPU) Unidade Central de Processamento (processador) - realiza as funções de processamento de dados
+	- Memória principal - armazena os dados
+	- E/S (Entrada/Saída) - move os dados entre o pc e o ambiente externo
+	- Interconexão do sistema - faz a comunicação entre CPU,memória principal e E/S. Todos os componentes se conectam nessa interconexão.
+
+>> Função:
+Operação individual de cada componente.
+Operações Básica:
+	- Processamento de dados
+	- Armazenamento de dados
+	- Movimentação de dados
+	- Controle
+
+>> Processador (CPU)
+Principais componentes estruturais:
+- Unidade de controle: controla a operação da CPU
+- Unidade aritmética e lógica (ALU): realiza as funções de processamento de dados do computador
+- Registradores: armazenamento interno da CPU
+- Interconexão da CPU: comunicação entre unidades de controle,ALU e registradores.
+
+
+
+
+
+
+
+
